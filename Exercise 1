@@ -1,19 +1,2 @@
-procedure drawsquare (n){
-    repeat (n){
-    paintWhite ()
-    forward ()
-    left ()
-    forward ()
-    left ()
-    forward ()
-    left ()
-    forward ()
-    stopPainting
-    left ()
-    forward (2)
-  }
-}
 
-drawSquare (3)
-    
    
